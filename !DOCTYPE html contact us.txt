@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Contact Us - Ani Wear</title>
+<style>
+body {
+margin: 0;
+background-color: #0b0f16;
+font-family: Arial, sans-serif;
+color: #ffffff;
+}
+
+
+header {
+background-color: #0b0f16;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px 40px;
+border-bottom: 1px solid #1a2333;
+}
+
+
+.logo {
+font-size: 28px;
+font-weight: bold;
+color: #6cff8f;
+}
+
+
+nav a {
+color: white;
+margin: 0 15px;
+text-decoration: none;
+font-size: 16px;
+}
+
+
+nav a:hover {
+color: #6cff8f;
+}
+
+
+.container {
+max-width: 900px;
+margin: 60px auto;
+padding: 0 20px;
+}
+
+
+h1 {
+font-size: 40px;
+margin-bottom: 20px;
+}
+
+
+.contact-box {
+background-color: #111725;
+padding: 40px;
+border-radius: 10px;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+
+
+label {
+display: block;
+margin-bottom: 8px;
+font-size: 15px;
+color: #cccccc;
+}
+
+
+input, textarea {
+width: 100%;
+padding: 12px;
+margin-bottom: 20px;
+border: none;
+border-radius: 6px;
+</html>
